@@ -155,3 +155,67 @@ input[type=submit]:hover {
     height: 100%;
     width: 100%;
 }
+@media screen and (max-width: 980px){
+    .header_box{
+        float: left;
+        width: 100%;
+    }
+    .content{
+        width:100%;
+        overflow: auto;
+    }
+    .centerbox{
+        width: 100%;
+        float:left;
+    }
+    .menulink{
+        float:right;
+        width: 50%;
+    }
+    .namebox{
+        float: left;
+    }
+}
+@media screen and (max-width: 768px){
+    .header_box{
+        float: left;
+        width: 100%;
+    }
+    .content{
+        width:100%;
+        overflow: auto;
+    }
+    .centerbox{
+        width: 100%;
+        float:left;
+    }
+    .menulink{
+        float:right;
+        width: 50%;
+    }
+    .namebox{
+        float: left;
+    }
+}
+@media screen and (max-width: 640px){
+    .header_box{
+        float: right;
+        width: 100%;
+    }
+    .content{
+        width:100%;
+        overflow: auto;
+    }
+    .centerbox{
+        width: 100%;
+        float: left;
+        overflow: auto;
+    }
+    .menulink{
+        float:right;
+        width: 50%;
+    }
+    .namebox{
+        float: left;
+    }
+}
