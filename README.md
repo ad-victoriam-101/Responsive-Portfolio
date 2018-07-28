@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-A responsive site using @media
+# Basic-Portfolio
+Homework 1
